@@ -1,0 +1,748 @@
+EssayText
+"Object-Oriented Programming(OOPs) is a type of programming that is based on objects rather than just functions and procedures. Individual objects are grouped into classes. OOPs implements real-world entities like inheritance, polymorphism, hiding, etc into programming. It also allows binding data and code together."
+"Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior."
+Object-oriented programming is a programming paradigm built on the concept of objects that contain both data and code to modify the data. Object-oriented programming mimics a lot of the real-world attributes of objects.
+"Object-oriented programming (OOP) is a programming paradigm based on the concept of ""objects"", which can contain data and code: data in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods)."
+"Object-Oriented Programming or OOPs refers to languages that uses objects in programming. Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism etc in programming. The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function. "
+"Object Oriented programming (OOP) is a programming paradigm that relies on the concept of classes and objects. It is used to structure a software program into simple, reusable pieces of code blueprints (usually called classes), which are used to create individual instances of objects.  "
+"Object-oriented programming (OOP) refers to a type of computer programming (software design) in which programmers define the data type of a data structure, and also the types of operations (functions) that can be applied to the data structure."
+"Object-Oriented Programming(OOP), is all about creating ï¿½ï¿½ï¿½objectsï¿½ï¿½ï¿½. An object is a group of interrelated variables and functions. These variables are often referred to as properties of the object and functions are referred to as the behavior of the objects. These objects provide a better and clear structure for "
+"OOPs, or Object-oriented programming is an approach or a programming pattern where the programs are structured around objects rather than functions and logic. It makes the data partitioned into two memory areas, i.e., data and functions, and helps make the code flexible and modular."
+"Object-oriented programming mainly focuses on objects that are required to be manipulated. In OOPs, it can represent data as objects that have attributes and functions"
+"Object Oriented programming is a programming style that is associated with the concept of Class, Objects and various other concepts revolving around these two, like Inheritance, Polymorphism, Abstraction, Encapsulation etc."
+"Object-oriented programming revolves around data. The main programming unit of OOP is the object. An object is a representation of a real-time entity and consists of data and methods or functions that operate on data. This way, data, and functions are closely bound and data security is ensured."
+"In OOP, everything is represented as an object and when programs are executed, the objects interact with each other by passing messages. An object need not know the implementation details of another object for communicating."
+"Using OOP, we write programs using classes and objects by utilizing the above features. A programming language is said to be a true object-oriented programming language if everything it represents is using an object. Smalltalk is one language which is a pure object-oriented programming language."
+"In Object oriented programming we write programs using classes and objects utilising features of OOPs such as abstraction, encapsulation, inheritance and polymorphism."
+Class are a blueprint or a set of instructions to build a specific type of object. It is a basic concept of Object-Oriented Programming which revolve around the real-life entities. Class in Java determines how an object will behave and what the object will contain.
+"A class is a blueprint for creating objects (a particular data structure), providing initial values for state (member variables or attributes), and implementations of behavior (member functions or methods). The user-defined objects are created using the class keyword. "
+"A class is an extensible program-code-template for creating objects, providing initial values for state (member variables) and implementations of behavior (member functions or methods)."
+A class is a prototype that consists of objects in different states and with different behaviors. It has a number of methods that are common the objects present within that class.
+User-defined blueprint from which objects are created. It consists of methods or set of instructions that are to be performed on the objects.
+Collection of objects is called class. It is a logical entity.
+A class can be defined as a blueprint from which you can create an individual object. Class doesn't consume any space.
+"A class is a blueprint of an object. You can think of a class as a concept, and the object is the embodiment of that concept. You need to have a class before you can create an object. So, let's say you want to use a person in your program. You want to be able to describe the person and have the person do something. A class called 'person' would provide a blueprint for what a person looks like and what a person can do. To actually use a person in your program, you need to create an object. You use the person class to create an object of the type 'person.' "
+"Class is the collection of variables and methods,in a simplest way.Class will be load onto MethodArea in java. A class may contain local variables,global variable and static variables."
+A class is a group of objects which have common properties. It is a template or blueprint from which objects are created. It is a logical entity. It can't be physical.
+A class is a user defined blueprint or prototype from which objects are created.  It represents the set of properties or methods that are common to all objects of one type.
+"A Class is like an object constructor, or a ""blueprint"" for creating objects."
+"Object is an entity that has state and behavior is known as an object e.g., chair, bike, marker, pen, table, car, etc. It can be physical or logical (tangible and intangible)."
+"Object is a basic unit of Object-Oriented Programming and represents the real life entities.  A typical Java program creates many objects, which as you know, interact by invoking methods. "
+"An object is a member (also called an instance) of a Java class. Each object has an identity, a behavior and a state. The state of an object is stored in fields (variables), while methods (functions) display the object's behavior. Objects are created at runtime from templates, which are also known as classes."
+An object is the instance(result) of a class. Object Definitions: An object is a real-world entity. An object is a runtime entity.
+"In object-oriented programming (OOP), objects are the things you think about first in designing a program and they are also the units of code that are eventually derived from the process. Each object is an instance of a particular class or subclass with the class's own methods or procedures and data variables."
+Objects are instances of a class created with specifically defined data. Objects can correspond to real-world objects or an abstract entity.
+"Object is a real world entity such as pen, laptop, mobile, bed, keyboard, mouse, chair etc. Class is a group of similar objects."
+"An object in OOPS is nothing but a self-contained component which consists of methods and properties to make a particular type of data useful. For example color name, table, bag, barking. When you send a message to an object, you are asking the object to invoke or execute one of its methods as defined in the class."
+"An object is an abstract data type with the addition of polymorphism and inheritance. ... An object has state (data) and behavior (code). Objects can correspond to things found in the real world. So for example, a graphics program will have objects such as circle, square, menu."
+"Object is an instance of a class. An object in OOPS is nothing but a self-contained component which consists of methods and properties to make a particular type of data useful. For example color name, table, bag, barking. When you send a message to an object, you are asking the object to invoke or execute one of its methods as defined in the class."
+An object in OOPS is a specimen of a class. Software objects are often used to model real-world objects you find in everyday life.
+"Objects are key to understanding object-oriented technology. Look around right now and you'll find many examples of real-world objects: your dog, your desk, your television set, your bicycle. Real-world objects share two characteristics: They all have state and behavior."
+"An object is called an instance of a class. For example, suppose Bicycle is a class then MountainBicycle, SportsBicycle, TouringBicycle, etc can be considered as objects of the class."
+"Inheritance is a feature of OOPs which allows classes inherit common properties from other classes. For example, if there is a class such as ï¿½ï¿½ï¿½vehicleï¿½ï¿½ï¿½, other classes like ï¿½ï¿½ï¿½carï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½bikeï¿½ï¿½ï¿½, etc can inherit common properties from the vehicle class. This property helps you get rid of redundant code thereby re"
+Inheritance is the procedure in which one class inherits the attributes and methods of another class. The class whose properties and methods are inherited is known as the Parent class.
+"Inheritance is a mechanism in which one class acquires the property of another class. For example, a child inherits the traits of his/her parents. With inheritance, we can reuse the fields and methods of the existing class. Hence, inheritance facilitates Reusability and is an important concept of OOPs."
+Inheritance is one of the key features of Object-oriented programming in C++. It allows us to create a new class (derived class) from an existing class (base class). The derived class inherits the features from the base class and can have additional features of its own.
+"Inheritance refers to the assets that an individual bequeaths to their loved ones after they pass away. An inheritance may contain cash, investments such as stocks or bonds, and other assets such as jewelry, automobiles, art, antiques, and real estate."
+"Inheritance is one of the most important aspects of Object Oriented Programming (OOP). The key to understanding Inheritance is that it provides code re-usability. In place of writing the same code, again and again, we can simply inherit the properties of one class into the other."
+The capability of a class to derive properties and characteristics from another class is called Inheritance.
+"In object-oriented programming, inheritance is the mechanism of basing an object or class upon another object (prototype-based inheritance) or class (class-based inheritance), retaining similar implementation. Also defined as deriving new classes (sub classes) from existing ones such as super class or base class and then forming them into a hierarchy of classes."
+Inheritance is defined as one classï¿½ï¿½ï¿½s tendency to derive properties and characteristics from other classes. It provides additional functionalities to extract features from the base class and imply it into other derived classes signific
+"Inheritance is the technique of creating a new class by using an existing class functionality is called inheritance in Java. In other words, inheritance is a process by which a child class acquires all the properties and behaviors of the parent class. The existing class is called parent class (a more general class) and the new class is called child class (a more specialized class). The child class inherits data and behavior from the parent class."
+"Polymorphism refers to the ability to exist in multiple forms. Multiple definitions can be given to a single interface. For example, if you have a class named Vehicle, it can have a method named speed but you cannot define it because different vehicles have different speed. This method will be defined in the subclasses with different definitions for different vehicles."
+"Polymorphism is nothing but assigning behavior or value in a subclass to something that was already declared in the main class. Simply, polymorphism takes more than one form."
+Polymorphism is a feature of object-oriented programming languages that allows a specific routine to use variables of different types at different times. Polymorphism is the ability of a programming language to present the same interface for several different underlying data types.
+"Polymorphism is considered one of the important features of Object-Oriented Programming. Polymorphism allows us to perform a single action in different ways. In other words, polymorphism allows you to define one interface and have multiple implementations. The word ï¿½ï¿½ï¿½polyï¿½ï¿½ï¿½ means many and ï¿½ï¿½ï¿½morphsï¿½ï¿½ï¿½ means forms,"
+"Polymorphism in OOPs is inseparable and an essential concept of every object-oriented programming language. An object or reference basically can take multiple forms in different instances. As the word suggests, ï¿½ï¿½ï¿½polyï¿½ï¿½ï¿½ means ï¿½ï¿½ï¿½manyï¿½ï¿½ï¿½ and ï¿½ï¿½ï¿½morphï¿½ï¿½ï¿½ points at ï¿½ï¿½ï¿½formsï¿½ï¿½ï¿½; thus, polymorphism as a whole w"
+"Polymorphism in Java occurs when there are one or more classes or objects related to each other by inheritance. It is the ability of an object to take many forms. Inheritance lets users inherit attributes and methods, and polymorphism uses these methods to perform different tasks. So, the goal is communication, but the approach is different."
+"Polymorphism is an object-oriented programming concept that refers to the ability of a variable, function or object to take on multiple forms. In a programming language exhibiting polymorphism, class objects belonging to the same hierarchical tree (inherited from a common parent class) may have functions with the same name, but with different behaviors."
+"Polymorphism is one of the OOPs feature that allows us to perform a single action in different ways. For example, lets say we have a class Animal that has a method sound(). Since this is a generic class so we canï¿½ï¿½ï¿½t give it a implementation like: Roar, Meow, Oink etc. We had to give a generic me"
+Polymorphism is the ability of an object to take on many forms. The most common use of polymorphism in OOP occurs when a parent class reference is used to refer to a child class object.
+Polymorphism is the ability of an object to take on many forms. The most common use of polymorphism in OOP occurs when a parent class reference is used to refer to a child class object.
+"Polymorphism in C++ means, the same entity (function or object) behaves differently in different scenarios. Consider this example: The ï¿½ï¿½ï¿½ +ï¿½ï¿½ï¿½ operator in c++ can perform two specific functions at two different scenarios i.e when the ï¿½ï¿½ï¿½+ï¿½ï¿½ï¿½ operator is used in number"
+"Polymorphism is an important concept of object-oriented programming. It simply means more than one form. That is, the same entity (function or operator) behaves differently in different scenarios. For example, The + operator in C++ is used to perform two specific functions. When it is used with numbers (integers and floating-point numbers), it performs addition."
+"A constructor is a method used to initialize the state of an object, and it gets invoked at the time of object creation. Rules for constructor are: Constructor Name should be the same as a class name. A constructor must have no return type."
+"A constructor is a special method of a class or structure in object-oriented programming that initializes a newly created object of that type. Whenever an object is created, the constructor is called automatically."
+"A constructor is a special type of member function of a class which initializes objects of a class. In C++, Constructor is automatically called when object(instance of class) create. It is special member function of the class because it does not have any return type."
+"A constructor is a special type of member function of a class which initializes objects of a class. In C++, Constructor is automatically called when object(instance of class) create. It is special member function of the class because it does not have any return type."
+Constructor is piece of code which we are using to initialize instance. which adding states to objects i mean it color up you instance. usually language like Java has default constructor which has the same name of class (without having return type) and python has special method call __init__(self) implement constructor in programming what ever your implementing language is oop is a conceptual thing and good programming paradigm so constructor is used for initialize instance.
+"Constructors are the member functions of the class whose job is to initialize the object. Following are certain characteristics of constructors:Their name is same as that of the class whose member they are. They do not have any return type, not even void. They can be explicitly defined by the programmer. They are provided by the compiler if not defined explicitly. They are called automatically when an object is being created or copied.They can be overloaded."
+"In OOP, constructor (both default and argument type) is used to create an object instance of that type of ï¿½ï¿½ï¿½Classï¿½ï¿½ï¿½. Without constructor if an object variable is declared then itï¿½ï¿½ï¿½s just an"
+"Constructors are specific to object-oriented programming languages. Programs written in these languages consist of classes, which define sets of properties (data) and behaviours (methods). These are called the classï¿½ï¿½ï¿½s me"
+"Constructors are specific to object-oriented programming languages. Programs written in these languages consist of classes, which define sets of properties (data) and behaviours (methods). These are called the classï¿½ï¿½ï¿½s me"
+"Constructors are not called explicitly and are invoked only once during their lifetime. In the case of a hierarchy of classes where a derived class inherits from a parent class, the execution sequence of the constructor is a call to the constructor of the parent class first and then that of the derived class. Constructors cannot be inherited."
+"A constructor can be declared using any of the access modifiers. It is mandatory to have a constructor with the right access modifier. However, the compiler supplies a default if an access modifier is not defined in the class. If a constructor is declared as private, the class cannot be created or derived and hence cannot be instantiated. Such a constructor, however, can be overloaded with different sets of parameters."
+A constructor is a special method that is used to initialize a newly created object and is called just after the memory is allocated for the object.
+Constructor is used to initialise the object. Constructor is automatically called when an object is created. It is a special member function of the class.
+A constructor is different from normal functions in following ways: Constructor has the same name as the class itself. Constructors donï¿½ï¿½ï¿½t have return type. A constructor is automatically called when an object is cr
+"A constructor is a bit of code that allows you to create objects from a class. You call the constructor by using the keyword new, followed by the name of the class, followed by any necessary parameters. For example, if you have a Dog class, you can create new objects of this type by saying new Dog()."
+Constructors is a special method of the class which automatically invoked when an instance of the class is created is called a constructor. The main use of constructors is to initialize private fields of the class while creating an instance for the class.
+"In class based object oriented programming, a constructor in a class is a special type of subroutine called to create an object. It prepares the new object for use, often accepting arguments that the constructor uses to set required member variables."
+A destructor is a method which is automatically called when the object is made of scope or destroyed. Destructor name is also same as class name but with the tilde symbol before the name.
+"Destructor is an instance member function which is invoked automatically whenever an object is going to be destroyed. Meaning, a destructor is the last function that is going to be called before an object is destroyed."
+"A destructor is a member function that is invoked automatically when the object goes out of scope or is explicitly destroyed by a call to delete . A destructor has the same name as the class, preceded by a tilde ( ~ )."
+Destructors are usually used to deallocate memory and do other cleanup for a class object and its class members when the object is destroyed. A destructor is called for a class object when that object passes out of scope or is explicitly deleted.
+"Destructors in C++ are members functions in a class that delete an object. They are called when the class object goes out of scope such as when the function ends, the program ends, a delete variable is called etc. ... Also, destructors have the same name as their class and their name is preceded by a tilde(~)."
+"A destructor works opposite to constructor; it destructs the objects of classes. It can be defined only once in a class. Like constructors, it is invoked automatically. A destructor is defined like constructor. It must have same name as class. But it is prefixed with a tilde sign (~)."
+"A destructor is a special member function that works just opposite to constructor, unlike constructors that are used for initializing an object, destructors destroy (or delete) the object."
+A destructor is a special method called automatically during the destruction of an object.
+"Whenever an object is destroyed and removed from memory, the object's destructor is called. In object-oriented programming, a destructor gives an object a last chance to clean up any memory it allocated or perform any other tasks that must be completed before the object is destroyed."
+"In object-oriented programming, a destructor (sometimes abbreviated dtor[1]) is a method which is invoked mechanically just before the memory of the object is released."
+Destructor is a special method that automatically gets called when an object is no longer used. When an object completes its life-cycle the garbage collector deletes that object and deallocates or releases the memory occupied by the object.
+"Whenever an object is destroyed and removed from memory, the object's destructor is called. In object-oriented programming, a destructor gives an object a last chance to clean up any memory it allocated or perform any other tasks that must be completed before the object is destroyed."
+"A virtual function is a member function of a class, and its functionality can be overridden in its derived class. This function can be implemented by using a keyword called virtual, and it can be given during function declaration."
+A virtual function can be declared using a token(virtual) in C++. It can be achieved in C/Python Language by using function pointers or pointers to function.
+"A virtual function is a member function that you expect to be redefined in derived classes. When you refer to a derived class object using a pointer or a reference to the base class, you can call a virtual function for that object and execute the derived class's version of the function."
+"A virtual function is a member function that you expect to be redefined in derived classes. When you refer to a derived class object using a pointer or a reference to the base class, you can call a virtual function for that object and execute the derived class's version of the function."
+"A virtual function is a member function within the base class that we redefine in a derived class. It is declared using the virtual keyword. When a class containing virtual function is inherited, the derived class redefines the virtual function to suit its own needs."
+A virtual function in C++ is a member function within the base class that we redefine in a derived class.
+"A virtual function is a member function that is declared within a base class and redefined by a derived class. To create virtual function, precede the functionï¿½ï¿½ï¿½s declaration in the base class with the keyword virtual. When a class containing virtual function is inherited, the derived class redefines the virtual function to suit its own "
+A virtual function or virtual method is an inheritable and overridable function or method for which dynamic dispatch is facilitated. This concept is an important part of the (runtime) polymorphism portion of object-oriented programming (OOP).
+"Basically, a virtual function is used in the base class in order to ensure that the function is overridden. This especially applies to cases where a pointer of base class points to an object of a derived class."
+A virtual function is a member function in the base class that we expect to redefine in derived classes.
+A virtual function or virtual method in an OOP language is a function or method used to override the behavior of the function in an inherited class with the same signature to achieve the polymorphism.
+A C++ virtual function is a member function in the base class that you redefine in a derived class. It is declared using the virtual keyword.
+"Suppose a base class contains a function declared as virtual and a derived class defines the same function. The function from the derived class is invoked for objects of the derived class, even if it is called using a pointer or reference to the base class."
+"Virtual functions ensure that the correct function is called for an object, regardless of the expression used to make the function call."
+A Friend class has full access of private data members of another class without being member of that class.
+A friend class can access private and protected members of other class in which it is declared as friend. It is sometimes useful to allow a particular class to access private members of other class.
+A friend class is a class that can access the private and protected members of a class in which it is declared as friend. This is needed when we want to allow a particular class to access the private and protected members of a class.
+"A friend class in C++ can access the private and protected members of the class in which it is declared as a friend.[1] A significant use of a friend class is for a part of a data structure, represented by a class, to provide access to the main class representing that data structure. The friend class mechanism allows to extend the storage and access to the parts, while retaining proper encapsulation as seen by the users of the data structure."
+"A friend function is a function that is specified outside a class but has the ability to access the class membersï¿½ï¿½ï¿½ protected and private data. A friend can be a memberï¿½ï¿½ï¿½s function, function template, or function, or a class or class template, in which case the entire class and all of its members "
+"If a function is defined as a friend function in C++, then the protected and private data of a class can be accessed using the function. By using the keyword friend compiler knows the given function is a friend function. For accessing the data, the declaration of a friend function should be done inside the body of a class starting with the keyword friend."
+"A friend function is a function that is specified outside a class but has the ability to access the class members' protected and private data. A friend can be a member's function, function template, or function, or a class or class template, in which case the entire class and all of its members are friends."
+"In object-oriented programming, a friend function, that is a ""friend"" of a given class, is a function that is given the same access as methods to private and protected data. A friend function is declared by the class that is granting access, so friend functions are part of the class interface, like methods."
+"Friend function is a function that is able to access the private and protected members of a class. In contrast, a friend class is a class which help in accessing the private members of a class. A friend function is declared by including its prototype inside the class, antecede it with the keyword friend."
+A friend function is used to access the non-public members of a class. It allows to generate more efficient code. It provides additional functionality which is not normally used by the class. It allows to share private class information by a non member function.
+"A friend function is a friend of a class that is allowed to access to Public, private, or protected data in that same class. If the function is defined outside the class cannot access such information."
+A friend function is used for accessing the non public member of a class. A class can allow non-member function and other classes to access its own private data by making them friend.
+A friend function is a function that is not a member of a class but has access to the class's private and protected members. Friend functions are not considered class members; they are normal external functions that are given special access privileges.
+"A friend function is a function that is declared outside a class but is capable of accessing the private and protected members of the class. There could be situations in programming wherein we want two classes to share their members. These members may be data members, class functions or function templates."
+"If subclass (child class) has the same method as declared in the parent class, it is known as method overriding in Java.In other words, If a subclass provides the specific implementation of the method that has been declared by one of its parent class, it is known as method overriding."
+"Method overriding is a feature that allows a subclass to provide the implementation of a method that overrides in the main class. It will override the implementation in the superclass by providing the same method name, same parameter, and same return type."
+In method overriding parent class methods are overrided by child class methods at runtime. In it there is use of inheritance.
+Method overriding means same method signature but implementation will be different. If you want to add some functionality or want to improve the existing functionality then you can override parent class method. Static method can't be override as they belongs to class level and overriding is object level concept
+"If subclass (child class) has the same method as declared in the parent class, it is known as method overriding in Java.In other words, If a subclass provides the specific implementation of the method that has been declared by one of its parent class, it is known as method overriding."
+Method overriding in java -Declaring a method in sub class which is already present in parent class is known as method overriding. Overriding is done so that a child class can give its own implementation to a method which is already provided by the parent class. In this case the method in parent class is called overridden method and the method in child class is called overriding method.
+"When the child class(subclass) has the method which has the same name, same parameters and same return type (or covariant return type) as a method in its parent class(or super-class), then child method has overridden the parent class method."
+"Function overriding in C++ is a feature that allows us to use a function in the child class that is already present in its parent class. The child class inherits all the data members, and the member functions present in the parent class."
+"Method overriding, in object-oriented programming, is a language feature that allows a subclass or child class to provide a specific implementation of a method that is already provided by one of its superclasses or parent classes. ... Some languages allow a programmer to prevent a method from being overridden."
+"The ability of a subclass to override a method allows a class to inherit from a superclass whose behavior is ""close enough"" and then to modify behavior as needed. The overriding method has the same name, number and type of parameters, and return type as the method that it overrides."
+"Overriding occurs when two methods have the same method name and parameters. One of the methods is in the parent class, and the other is in the child class."
+"Method Overriding in Java. If subclass (child class) has the same method as declared in the parent class, it is known as method overriding in Java. In other words, If a subclass provides the specific implementation of the method that has been declared by one of its parent class, it is known as method overriding."
+"If a class inherits a method from its superclass, then there is a chance to override the method provided that it is not marked final. The benefit of overriding is: ability to define a behavior that's specific to the subclass type, which means a subclass can implement a parent class method based on its requirement. In object-oriented terms, overriding means to override the functionality of an existing method."
+Declaring a method in sub class which is already present in parent class is known as method overriding. Overriding is done so that a child class can give its own implementation to a method which is already provided by the parent class. In this case the method in parent class is called overridden method and the method in child class is called overriding method.
+"In any object-oriented programming language, Overriding is a feature that allows a subclass or child class to provide a specific implementation of a method that is already provided by one of its super-classes or parent classes. When a method in a subclass has the same name, same parameters or signature, and same return type(or sub-type) as a method in its super-class, then the method in the subclass is said to override the method in the super-class."
+"Method overriding, in object-oriented programming, is a language feature that allows a subclass or child class to provide a specific implementation of a method that is already provided by one of its superclasses or parent classes. It allows for a specific type of polymorphism (subtyping). "
+"Method overriding, in object-oriented programming, is a language feature that allows a subclass or child class to provide a specific implementation of a method that is already provided by one of its super classes or parent classes."
+Method overloading is a salient feature in Object-Oriented Programming (OOP). It lets you declare the same method multiple times with different argument lists.
+"Method overloading is a form of polymorphism in OOP. Polymorphism allows objects or methods to act in different ways, according to the means in which they are used. One such manner in which the methods behave according to their argument types and number of arguments is method overloading."
+Overloading happens when you have two methods with the same name but different signatures (or arguments). In a class we can implement two or more methods with the same name. Overloaded methods are differentiated based on the number and type of parameter passed as arguments to the methods. If we try to define more than one method with the same name and the same number of arguments then the compiler will throw an error.
+"Method overloading allows a class to define multiple methods with the same name, but different signatures."
+"Method overloading allows a class to define multiple methods with the same name, but different signatures. That is, it allows you to define different methods that have the same name, but that respond to correspondingly different messages sent to an instance of the class."
+"If a class has multiple methods having same name but different in parameters, it is known as Method Overloading. If we have to perform only one operation, having same name of the methods increases the readability of the program."
+Function overloading is a feature of object oriented programming where two or more functions can have the same name but different parameters. When a function name is overloaded with different jobs it is called Function Overloading.
+"Method overloading is an example of static polymorphism, while method overriding is an example of dynamic polymorphism."
+"Function overloading is a C++ programming feature that allows us to have more than one function having same name but different parameter list, when I say parameter list, it means the data type and sequence of the parameters."
+"In function overloading, the function can be redefined either by using different types of arguments or a different number of arguments according to the requirement. It is only through these differences compiler can differentiate between the two overloaded functions."
+"Method overloading, also known as Function overloading or Compile time polymorphism, is a concept of having two or more methods with the same name but different signature in the same scope."
+"Method overloading is a feature of Java in which a class has more than one method of the same name and their parameters are different. When more than one method of the same name is created in a Class, this type of method is called Overloaded Method."
+"Method Overloading is a feature that allows a class to have more than one method having the same name, if their argument lists are different. It is similar to constructor overloading in Java, that allows a class to have more than one constructor having different argument lists."
+Overloading occurs when two or more methods in one class have the same method name but different parameters.
+"In OOP, function overloading is known as a function of polymorphism. The function can perform various operations best on the argument list. It differs by type or number of arguments they hold. By using a different number of arguments or different types of arguments, the function can be redefined."
+"Overloading allows different methods to have the same name, but different signatures where the signature can differ by the number of input parameters or type of input parameters or both. Overloading is related to compile-time (or static) polymorphism."
+"A major topic in OOP is overloading methods, which lets you define the same method multiple times so that you can call them with different argument lists (a method's argument list is called its signature)."
+"Method Overloading is a feature that allows a class to have more than one method having the same name, if their argument lists are different. It is similar to constructor overloading in Java, that allows a class to have more than one constructor having different argument lists."
+"In Java, two or more methods may have the same name if they differ in parameters (different number of parameters, different types of parameters, or both). These methods are called overloaded methods and this feature is called method overloading."
+Overloading occurs when two or more methods in one class have the same method name but different parameters.
+Method or function overloading allows a method with the same name to be declared more than once given that they have different input parameters.
+Overloading a method simply means two or more methods have the same method name with different arguments or parameters(compulsory) and return type(not necessary).
+"In object-oriented programming (OOP), encapsulation refers to the bundling of data with the methods that operate on that data, or the restricting of direct access to some of an object's components."
+"Encapsulation is used to hide the values or state of a structured data object inside a class, preventing direct access to them by clients in a way that could expose hidden implementation details or violate state invariance maintained by the methods."
+"Encapsulation is an Object Oriented Programming concept that binds together the data and functions that manipulate the data, and that keeps both safe from outside interference and misuse."
+"Encapsulation is defined as the wrapping up of data under a single unit. It is the mechanism that binds together code and the data it manipulates. Another way to think about encapsulation is, it is a protective shield that prevents the data from being accessed by the code outside this shield."
+"In Object Oriented Programming, all data members should be declared as Private members of the Class. Any object wishing to modify/retrieve the value of a data member should use Setters or Getters functions. You most likely know this as Data Member Encapsulation."
+"Encapsulation is used to hide the values or state of a structured data object inside a class, preventing direct access to them by clients in a way that could expose hidden implementation details or violate state invariance maintained by the methods."
+Encapsulation' acts as protective wrapper that prevents code and data from being accessed by other code defined outside the wrapper.
+Encapsulation is a method to hide the data in a single entity or unit along with a method to protect information from outside. We can implement abstraction using abstract class and interfaces.
+Encapsulation is the process of keeping classes private so they cannot be modified by external codes.
+"In encapsulation, the variables of a class will be hidden from other classes, and can be accessed only through the methods of their current class. Therefore, it is also known as data hiding."
+"Encapsulation helps in isolating implementation details from the behavior exposed to clients of a class (other classes/functions that are using this class), and gives you more control over coupling in your code."
+"Encapsulation can also be defined in two different ways: 1) Data hiding: Encapsulation is the process of hiding unwanted information, such as restricting access to any member of an object. 2)Data binding: Encapsulation is the process of binding the data members and the methods together as a whole, as a class."
+"Encapsulation is the process of binding data members and methods of a program together to do a specific job, without revealing unnecessary details."
+"What it means is that by Encapsulation, all the necessary data and methods are bind together and all the unnecessary details are hidden to the normal user."
+"Encapsulation as the method of putting everything that is required to do the job, inside a capsule and presenting that capsule to the user. "
+"Encapsulation is essentially ""data hiding"". A class is a construct that can be instantiated to create objects in memory. The class will use encapsulation (e.g. public and private methods) to hide attributes that you don't want to allow public access to. Finally an instance of the class will be created."
+"If you are a user, and you have a problem statement, you don't want to know how the components of the software work, or how it's made. You only want to know how the software solves your problem. Abstraction is the method of hiding unnecessary details from the necessary ones. It is one of the main features of OOPs."
+"Abstraction is the concept of object-oriented programming that ""shows"" only essential attributes and ""hides"" unnecessary information. The main purpose of abstraction is hiding the unnecessary details from the users. Abstraction is selecting data from a larger pool to show only relevant details of the object to the user. It helps in reducing programming complexity and efforts. It is one of the most important concepts of OOPs."
+"Abstraction means displaying only essential information and hiding the details. Data abstraction refers to providing only essential information about the data to the outside world, hiding the background details or implementation."
+"In simple terms, abstraction ï¿½ï¿½ï¿½displaysï¿½ï¿½ï¿½ only the relevant attributes of objects and ï¿½ï¿½ï¿½hidesï¿½ï¿½ï¿½ "
+"Abstraction (from the Latin abs, meaning away from and trahere , meaning to draw) is the process of taking away or removing characteristics from something in order to reduce it to a set of essential characteristics. Abstraction is related to both encapsulation and data hiding."
+"Abstraction can be of two types, namely, data abstraction and control abstraction. Data abstraction means hiding the details about the data and control abstraction means hiding the implementation details. In object-oriented approach, one can abstract both data and functions."
+Abstract class and interface both are used to achieve abstraction where we can declare the abstract methods.
+The main purpose of abstraction is hiding the unnecessary details from the users. Abstraction is selecting data from a larger pool to show only relevant details of the object to the user. It helps in reducing programming complexity and efforts.
+"Data Abstraction is the most important features of any OOPS programming language. It shows only useful information, remaining are hidden form the end user. Abstraction is the any representation of data in which the implementation details are hidden (abstracted)."
+The main purpose of abstraction is hiding the unnecessary details from the users. Abstraction is selecting data from a larger pool to show only relevant details of the object to the user. It helps in reducing programming complexity and efforts. It is one of the most important concepts of OOPs.
+Abstraction is the concept of object-oriented programming that ï¿½ï¿½ï¿½showsï¿½ï¿½ï¿½ only essential attributes and ï¿½ï¿½ï¿½hidesï¿½ï¿½ï¿½ unnecessary information. The main purpose of abstraction is hiding the unnecessary details from the users. Abstraction is selecting data from a larger pool to show only relevant details of the object to the user. It helps in reducing programming complexity and efforts. It is one of the most imp
+"Data abstraction is one of the most essential and important feature of object oriented programming in C++. Abstraction means displaying only essential information and hiding the details. Data abstraction refers to providing only essential information about the data to the outside world, hiding the background details or implementation."
+Abstraction is the process of hiding the internal details of an application from the outer world. Abstraction is used to describe things in simple terms. Itï¿½ï¿½ï¿½s used to create a boundary between the application and the client pro
+Abstraction is one of the core concepts of Object-Oriented Programming. Abstraction defines a model to create an application component. The implementation of abstraction depends on the language-specific features and processes.
+Abstraction is one of the key concepts of object-oriented programming (OOP) languages. Its main goal is to handle complexity by hiding unnecessary details from the user. That enables the user to implement more complex logic on top of the provided abstraction without understanding or even thinking about all the hidden complexity.
+Data Abstraction is the property by virtue of which only the essential details are displayed to the user. The trivial or the non-essentials units are not displayed to the user. Ex: A car is viewed as a car rather than its individual components.
+An interface in Java is a blueprint of a class. It has static constants and abstract methods.
+"An interface is a programming structure/syntax that allows the computer to enforce certain properties on an object (class). For example, say we have a car class and a scooter class and a truck class. Each of these three classes should have a start_engine() action. How the ""engine is started"" for each vehicle is left to each particular class, but the fact that they must have a start_engine action is the domain of the interface."
+"In object-oriented programming, an interface allows you to specify a set of function signatures and hide the implementation of those functions in an ""implementing"" class.   Interfaces form a contract between the class and the outside world. If a class implements an interface, then all methods defined by that interface must be implemented (i.e. the guts of those functions should appear in the class)."
+"An interface is one of the more overloaded and confusing terms in development. It is actually a concept of abstraction and encapsulation. For a given ""box"", it declares the ""inputs"" and ""outputs"" of that box. In the world of software, that usually means the operations that can be invoked on the box (along with arguments) and in some cases the return types of these operations."
+Interfaces are basically classes without code. The can define properties and methods (though not fields directly) without actually storing data or writing an implementation for functions.
+"To declare an interface, use interface keyword. It is used to provide total abstraction. That means all the methods in an interface are declared with an empty body and are public and all fields are public, static and final by default. A class that implements an interface must implement all the methods declared in the interface. To implement interface use implements keyword."
+"An interface can have methods and variables, but the methods declared in an interface are by default abstract (only method signature, no body)."
+"Interfaces are the constructs that were created to get away with the multiple inheritance problem and can have abstract methods , default definitions and static final variables."
+"In Programming, an interface defines what the behavior a an object will have, but it will not actually specify the behavior. It is a contract, that will guarantee, that a certain class can do something."
+"The interface consists of the signatures of methods and values of constants, and also a (typically informal) ""behavioral contract"" between classes that implement the interface and others that use it."
+"A blueprint typically includes the internals. But a interface is purely about what is visible on the outside of a class ... or more accurately, a family of classes that implement the interface."
+"An interface is most certainly not a blueprint for a class. A blueprint, by one definition is a ""detailed plan of action"". An interface promises nothing about an action! The source of the confusion is that in most languages, if you have an interface type that defines a set of methods, the class that implements it ""repeats"" the same methods (but provides definition), so the interface looks like a skeleton or an outline of the class."
+"An interface is a contract between itself and any class that implements it. Interface can have methods, properties, or events. It contains only declaration of its members and implementation of its members will be given by the class who implements the interface. Interface makes it easy to maintain the program."
+"In object-oriented programming, an interface allows you to specify a set of function signatures and hide the implementation of those functions in an ""implementing"" class. Interfaces form a contract between the class and the outside world."
+"In Object Oriented Programming, an Interface is a description of all functions that an object must have in order to be an ""X""."
+"An interface is a reference type in Java. It is similar to class. It is a collection of abstract methods. A class implements an interface, thereby inheriting the abstract methods of the interface."
+"An interface is a completely ""abstract class"" that is used to group related methods with empty bodies"
+"Within the Java programming language, an interface (in the glossary) is a type, just as a class is a type. Like a class, an interface defines methods. Unlike a class, an interface never implements methods; instead, classes that implement the interface implement the methods defined by the interface. A class can implement multiple interfaces."
+"In general, an interface is a device or a system that unrelated entities use to interact. According to this definition, a remote control is an interface between you and a television set, the English language is an interface between two people, and the protocol of behavior enforced in the military is the interface between people of different ranks."
+"In its most common form, an interface is a group of related methods with empty bodies."
+"The interface in Java is a mechanism to achieve abstraction. There can be only abstract methods in the Java interface, not method body. It is used to achieve abstraction and multiple inheritance in Java."
+"When an error occurs within a method, the method creates an object and hands it off to the runtime system. The object, called an exception object, contains information about the error, including its type and the state of the program when the error occurred. Creating an exception object and handing it to the runtime system is called throwing an exception."
+"An exception is an event, which occurs during the execution of a program, that disrupts the normal flow of the program's instructions."
+"Exception is a notification that something interrupts the normal program execution. Exceptions provide a programming paradigm for detecting and reacting to unexpected events. When an exception arises, the state of the program is saved, the normal flow is interrupted and the control is passed to an exception handler (if such exists in the current context)."
+"An exception is a problem that arises during the execution of a program. A C++ exception is a response to an exceptional circumstance that arises while a program is running, such as an attempt to divide by zero."
+"Exceptions provide a way to transfer control from one part of a program to another. C++ exception handling is built upon three keywords: try, catch, and throw."
+"An exception (or exceptional event) is a problem that arises during the execution of a program. When an Exception occurs the normal flow of the program is disrupted and the program/Application terminates abnormally, which is not recommended, therefore, these exceptions are to be handled."
+"Exception is an abnormal condition. In Java, an exception is an event that disrupts the normal flow of the program. It is an object which is thrown at runtime."
+"Exception is an abnormal condition. In Java, an exception is an event that disrupts the normal flow of the program. It is an object which is thrown at runtime."
+"An exception is an unwanted or unexpected event, which occurs during the execution of a program i.e at run time, that disrupts the normal flow of the programï¿½ï¿½ï¿½s instruc"
+"An exception is an unwanted or unexpected event, which occurs during the execution of a program i.e at run time, that disrupts the normal flow of the programï¿½ï¿½ï¿½s instruc"
+"To catch exceptions, a portion of code is placed under exception inspection. This is done by enclosing that portion of code in a try-block. When an exceptional circumstance arises within that block, an exception is thrown that transfers the control to the exception handler. If no exception is thrown, the code continues normally and all handlers are ignored."
+"To catch exceptions, a portion of code is placed under exception inspection. This is done by enclosing that portion of code in a try-block. When an exceptional circumstance arises within that block, an exception is thrown that transfers the control to the exception handler. If no exception is thrown, the code continues normally and all handlers are ignored."
+Exceptions provide a way to react to exceptional circumstances (like runtime errors) in programs by transferring control to special functions called handlers.
+Exceptions provide a way to react to exceptional circumstances (like runtime errors) in programs by transferring control to special functions called handlers.
+"In C++, exception is an event or object which is thrown at runtime. All exceptions are derived from std::exception class. It is a runtime error which can be handled. If we don't handle the exception, it prints exception message and terminates the program."
+"In C++, exception is an event or object which is thrown at runtime. All exceptions are derived from std::exception class. It is a runtime error which can be handled. If we don't handle the exception, it prints exception message and terminates the program."
+Exceptions are run-time anomalies or abnormal conditions that a program encounters during its execution.
+"When Java encounters an exception, it throws it. Unfortunately it doesn't throw it away. Instead, it throws it to the internal system of the computer (called the runtime system). Basically, Java gives up, and tosses the exception to the system in hopes that there's something there that can handle the error."
+"An exception is an error. The long answer: An exception is an unscheduled, unplanned event that interferes with a program's processing."
+"When executing Java code, different errors can occur: coding errors made by the programmer, errors due to wrong input, or other unforeseeable things. When an error occurs, Java will normally stop and generate an error message. The technical term for this is: Java will throw an exception (throw an error)."
+"In Java, an Exception is ï¿½ï¿½ï¿½an event that occurs during the execution of a program that disrupts the normal flow of instructionsï¿½ï¿½ï¿½ is called an exception. This is generally an unexpected or unwanted event which can occur either at compile-time or run-time in appli"
+An exception is an event that occurs during the execution of a program that disrupts the normal flow of instructions during the execution of a program.
+"When executing C++ code, different errors can occur: coding errors made by the programmer, errors due to wrong input, or other unforeseeable things. When an error occurs, C++ will normally stop and generate an error message. The technical term for this is: C++ will throw an exception (throw an error)."
+"When executing C++ code, different errors can occur: coding errors made by the programmer, errors due to wrong input, or other unforeseeable things. When an error occurs, C++ will normally stop and generate an error message. The technical term for this is: C++ will throw an exception (throw an error)."
+No one wants its software to fail or crash. Exceptions are the major reason for software failure. The exceptions can be handled in the program beforehand and prevent the execution from stopping. This is known as exception handling.
+No one wants its software to fail or crash. Exceptions are the major reason for software failure. The exceptions can be handled in the program beforehand and prevent the execution from stopping. This is known as exception handling.
+"To catch the exceptions, you place some segment of code under special case investigation and that is kept inside aï¿½ï¿½ï¿½ try-catch ï¿½ï¿½ï¿½ block. When uncommon circumstance happens inside that part of the code, an exception will be thrown. Then, the exception handler will take control of the program. When no exception condition happens, the code will execute ordinarily. The handlers will be "
+"To catch the exceptions, you place some segment of code under special case investigation and that is kept inside aï¿½ï¿½ï¿½ try-catch ï¿½ï¿½ï¿½ block. When uncommon circumstance happens inside that part of the code, an exception will be thrown. Then, the exception handler will take control of the program. When no exception condition happens, the code will execute ordinarily. The handlers will be "
+"Exception Handling in C++ is defined as a method that takes care of a surprising condition like runtime errors. At whatever point a sudden situation happens, there is a movement of the program control to a unique function known as Handlers. "
+"Exception handling in c++ is a special condition for developers to handle. In programming, it is normal to commit mistakes that prompts unusual conditions called errors."
+"Exception handling is one of the most important feature of java programming that allows us to handle the runtime errors caused by exceptions. In this guide, we will learn what is an exception, types of it, exception classes and how to handle exceptions in java with examples."
+The Exception Handling in Java is one of the powerful mechanism to handle the runtime errors so that the normal flow of the application can be maintained.
+"Exception handling in C++ provides you with a way of handling unexpected circumstances like runtime errors. So whenever an unexpected circumstance occurs, the program control is transferred to special functions known as handlers. To catch the exceptions, you place some section of code under exception inspection."
+"Exception Handling in C++ is a process to handle runtime errors. We perform exception handling so the normal flow of the application can be maintained even after runtime errors. In C++, exception is an event or object which is thrown at runtime."
+"Exception handling ensures that the flow of the program doesn't break when an exception occurs. For example, if a program has bunch of statements and an exception occurs mid way after executing certain statements then the statements after the exception will not execute and the program will terminate abruptly."
+"Exception handling in C++ consists of three keywords: try, throw and catch: The try statement allows you to define a block of code to be tested for errors while it is being executed. The throw keyword throws an exception when a problem is detected, which lets us create a custom error."
+"Exception handling is a mechanism that separates code that detects and handles exceptional circumstances from the rest of your program. Note that an exceptional circumstance is not necessarily an error. When a function detects an exceptional situation, you represent this with an object."
+"In Object-Oriented Programming (OOP), exceptions are a powerful mechanism for centralized processing of errors and exceptional situations. This mechanism replaces the procedure-oriented method of error handling in which each function returns a code indicating an error or a successful execution."
+Exception handling is the mechanism for identifying the undesirable states that the program can reach and specifying the desirable outcomes of such states.Try-catch is the most common method used for handling exceptions in the program.
+"The aim of OOP is to implement real-world entities like inheritance, hiding, polymorphism in programming. The main purpose of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function."
+"Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism etc in programming. The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function."
+"Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism etc in programming. The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function."
+"Security(abstraction), modularity, sharing (Inheritance), Easy to maintain, Controlling data accessibility (Access Specifiers), Readability, Achieve individual teamwork(In software companies), Easy to made document in the analysis phase, last but not the least is a Strong community. An effective way to use OOP Paradigm: High Cohesion(Peace of code apparently will tell what its actual work), Low Coupling (Depends on another module)"
+"Security(abstraction), modularity, sharing (Inheritance), Easy to maintain, Controlling data accessibility (Access Specifiers), Readability, Achieve individual teamwork(In software companies), Easy to made document in the analysis phase, last but not the least is a Strong community. An effective way to use OOP Paradigm: High Cohesion(Peace of code apparently will tell what its actual work), Low Coupling (Depends on another module)"
+"OOP insists that you think about what you expose to the outside world, it lets you change the implementation of an object without affecting any other code. (Encapsulation) Because it allows you to have many different functions, all with the same name, all doing the same job, but on different data. (Polymorphism) Because it lets you write a set of functions, then expand them in different direction without changing or copying them in any way. (Inheritance)"
+"OOP insists that you think about what you expose to the outside world, it lets you change the implementation of an object without affecting any other code. (Encapsulation) Because it allows you to have many different functions, all with the same name, all doing the same job, but on different data. (Polymorphism) Because it lets you write a set of functions, then expand them in different direction without changing or copying them in any way. (Inheritance)"
+Object-Oriented Programming has the following resons to use: 1) OOP provides a clear modular structure for programs. 2) OOP makes it easy to maintain and modify existing code. 3) OOP provides a good framework for code libraries where supplied software components can be easily adapted and modified by the programmer. 4)Code Resusablity. 5)It is suitable for realword problems and real world works.
+"OOP is not the only way of organising programs at a high level - functional programming is another approach. However, OOP has a very natural match to GUIs, in that the elements of a GUI are easy to think about as objects - buttons, text boxes, windows, combo boxes and so on. There is also a huge investment in the whole approach, so even if you plan to spend your life writing pure functions without I/O in Haskell, you probably still need to learn something about OOP."
+"OOP is one level up in this process - it basically combines functions and data structures into identifiable associated groups - classes or objects. Using inheritance you can take a general object/class and ï¿½ï¿½ï¿½specialiseï¿½ï¿½ï¿½ it for your specific application, or you can use imports/includes/mixins to add functionality from one class to another. But the most important part of OOP is to help you organise your program and your thinking. They help you with namespaces - instance variables inside the class are accessible to the methods of the class, while at the same time they arenï¿½ï¿½ï¿½t global - it gives you a lot of control of which parts of your program can access what, which helps with clarity and cu"
+"OOP concepts are very relevant for managing the complexity of dealing with many distinct types, by treating them in an uniform way. We do need those concepts for most of todayï¿½ï¿½ï¿½s applica"
+OOP concepts as follows using this concepts language gets more flexible. 1)Class:it is blueprint.under classes we creat objects like fruit is class and mango it's object of that class. 2)Objects:objects are physical entity.we creat objects under classes and java is all about classes and objects. 3) Inheritance:Sub class inherits some properties of parent class/super class.bcz of this we can achieve code reusability. 4) Abstraction: hiding internal details of class n showing functionality of class.using this we can achieve data hidding and code security. 5) Polymorphism:one task performed by many ways. 6) Encapsulation: wrapping up of data into single unit using this we can achieve code security. 7) Association: relation between two objects. 8) Aggregation:weak association. 9) Composition:strong association.
+"One of the most important philosophy of OOPS concept is to define every real world object in terms of Objects (Java). Earlier we used procedural language in which each line of code is dependent on the next or its previous part, but due to the evolution of object oriented programming, now each module can work independently as a separate entity."
+"Advantage of OOP:1. Through inheritance we can achieve reusability. Also eliminate redundant code. 2. The principle of data hiding helps to build secure program. 3. Since java objects represent real world object, so oops provide a clear structure of the program which becomes easy to map real world problem and give solution. 4. It enhances program modularity since each object exists independently."
+OOPs allows us to hide implementation details from clients. This makes it easy to change internal implementations without affecting the client's behavior. Allows reuse of existing functionality through inheritance. Provides flexibility at run time.
+"As we use the concept of encapsulation, programs are easier to test and maintain. Faster development of code is done as we develop classes parallel instead of sequentially. OOP provides greater security due to data abstraction."
+OOPs provides data hiding whereas in Procedure-oriented programming language a global data can be accessed from anywhere.
+OOPs makes development and maintenance easier where as in Procedure-oriented programming language it is not easy to manage if code grows as project size grows.
+"Some of the advantages of object-oriented programming include: Improved software-development productivity: Object-oriented programming is modular, as it provides separation of duties in object-based program development. It is also extensible, as objects can be extended to include new attributes and behaviors."
+"OOps, concepts in java is to improve code readability and reusability by defining a Java program efficiently. The main principles of object-oriented programming are abstraction, encapsulation, inheritance, and polymorphism. These concepts aim to implement real-world entities in programs."
+"Access specifiers are special keywords that control the accessibility of methods or classes etc. They are also called access modifiers and are used to achieve the encapsulation. e.g., the keywords public, private, and protected are some examples of access specifiers. "
+"The access specifiers also determine which data members (methods or fields) of a class can be accessed by other data members of classes or packages etc. To ensure encapsulation and reusability, these access specifiers/modifiers are an integral part of object-oriented programming."
+"The access modifiers in Java specifies the accessibility or scope of a field, method, constructor, or class. We can change the access level of fields, constructors, methods, and class by applying the access modifier on it."
+Access Specifier-This can be understood as the access you provide to your code in Java whether other classes can access your code or not.
+"Access modifiers (or access specifiers) are keywords in object-oriented languages that set the accessibility of classes, methods, and other members. Access modifiers are a specific part of programming language syntax used to facilitate the encapsulation of components."
+"Access modifiers are object-oriented programming that is used to set the accessibility of classes, constructors, methods, and other members of Java. Using the access modifiers we can set the scope or accessibility of these classes, methods, constructors, and other members."
+"Java access modifiers are used to provide access control in java. Java provides access control through three keywords ï¿½ï¿½ï¿½ private, protected and public. We are not required to use these access modifiers always, so we have another one namely ï¿½ï¿½ï¿½default accessï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½package-privateï"
+Access modifiers are used to implement an important aspect of Object-Oriented Programming known as Data Hiding.
+"The access specifiers used in C++ are Private, Protected and Public. The data members and member functions of a class declared as public are available to everyone and other classes can also access them. The public members of a class are accessible from everywhere in the program using the dot operator (.) which is called a direct member access operator along with the object of the same class."
+"C++ access specifiers are used for determining or setting the boundary for the availability of class members (data members and member functions) beyond that class. For example, the class members are grouped into sections, private protected and public. These keywords are called access specifiers which define the accessibility or visibility level of class members. By default the class members are private. So if the visibility labels are missing then by default all the class members are private."
+"Data hiding is one of the important features of Object Oriented Programming which allows preventing the functions of a program to access directly the internal representation of a class type. The access restriction to the class members is specified by the labeled public, private, and protected sections within the class body. The keywords public, private, and protected are called access specifiers."
+C++ offers possibility to control access to class members and functions by using access specifiers. Access specifiers are used to protect data from misuse.
+"Access specifiers in C++ define how the members of the class can be accessed. C++ has 3 new keywords introduced, namely, public, private and protected."
+"In C++, there are three access specifiers: public - members are accessible from outside the class. private - members cannot be accessed (or viewed) from outside the class. protected - members cannot be accessed from outside the class, however, they can be accessed in inherited classes."
+C++ offers possibility to control access to class members and functions by using access specifiers. Access specifiers are used to protect data from misuse.
+"Data hiding feature prevents direct access to the internal class representation. The access restriction is done by using private, public, and protected keywords inside the class. These keywords, private, public, and protected, are known as access specifiers or modifiers in C++. "
+"There are three keywords that act as access specifiers. These limit the access to class members following the specifier, until another specifier changes the access level again:1)public-Everyone has access. 2)protected-Only the class itself, derived classes and friends have access. 3)private"
+"Access modifiers in C++ class defines the access control rules. C++ has 3 new keywords introduced, namely, public, private and protected. These access modifiers are used to set boundaries for availability of members of class be it data members or member functions."
+A copy constructor creates objects by copying variables from another object of the same class. The main aim of a copy constructor is to create a new object from an existing one.
+A copy constructor is a member function that initializes an object using another object of the same class.
+"The copy constructor is a constructor which creates an object by initializing it with an object of the same class, which has been created previously. The copy constructor is used to ï¿½ï¿½ï¿½ Initialize one object from another of the same type. Copy an object to pass it as an argument to a fun"
+"Copy constructor is called when a new object is created from an existing object, as a copy of the existing object. Assignment operator is called when an already initialized object is assigned a new value from another existing object."
+Copy Constructor is used to create and exact copy of an object with the same values of an existing object.
+"Whenever the compiler creates a temporary object, copy constructor is used to copy the values from existing object to the temporary object."
+A Copy constructor is an overloaded constructor used to declare and initialize an object from another object.
+Copy constructor allows the user to initialize an object with the values of another object instead of supplying the same set of values again to initialize the object.
+A Copy constructor is an overloaded constructor used to declare and initialize an object from another object.
+"A copy constructor is the constructor that C++ uses to make copies of objects.First, it takes a constructor to create an object, even a copy of an existing object. C++ could create a default copy constructor that copies the existing object into the new object one byte at a time."
+"The copy constructor is a constructor which creates an object by initializing it with an object of the same class, which has been created previously. The copy constructor is used to ï¿½ï¿½ï¿½ 1) Initialize one object from another of the same type. 2)Copy an object to pass it as an argument to a function. 3)Copy an object to return it from a fun"
+"Copy Constructors is a type of constructor which is used to create a copy of an already existing object of a class type. It is usually of the form X (X&), where X is the class name. The compiler provides a default Copy Constructor to all the classes."
+"In the C++ programming language, a copy constructor is a special constructor for creating a new object as a copy of an existing object. Copy constructors are the standard way of copying objects in C++, as opposed to cloning, and have C++-specific nuances. The first argument of such a constructor is a reference to an object of the same type as is being constructed (const or non-const), which might be followed by parameters of any type (all having default values)."
+"The copy constructor is a constructor which creates an object by initializing it with an object of the same class, which has been created previously. The copy constructor is used to ï¿½ï¿½ï¿½ Initialize one object from another of the same type. Copy an object to pass it as an argument to a fun"
+The compiler provides a copy constructor if there is no copy constructor defined in the class. Bitwise copy will be made if the assignment operator is not overloaded. Copy Constructor is used when a new object is being created with the help of the already existing element.
+"A copy constructor in a Java class is a constructor that creates an object using another object of the same Java class. That's helpful when we want to copy a complex object that has several fields, or when we want to make a deep copy of an existing object."
+Copy Constructor: Used to create an object by copying variables from another object of the same class. The main purpose is to create a new object from an existing one by copying variables.
+Static Polymorphism is commonly known as the Compile time polymorphism. Static polymorphism is the feature by which an object is linked with the respective function or operator based on the values during the compile time. Static or Compile time Polymorphism can be achieved through Method overloading or operator overloading.
+Static Polymorphism is the linking of a function with an object during compile time is called static. It is also called static binding. The definition of the function must differ from each other by the types and/or the number of arguments in the argument list.
+Method Overloading is known as Static Polymorphism and also Known as Compile Time Polymorphism or Static Binding because overloaded method calls get resolved at compile time by the compiler on the basis of the argument list and the reference on which we are calling the method.
+Method overloading is an example of compile time/static polymorphism because method binding between method call and method definition happens at compile time and it depends on the reference of the class (reference created at compile time and goes to stack).
+Static polymorphism : Same method name is overloaded with different type or number of parameters in same class (different signature). Targeted method call is resolved at compile time.
+Static binding is a binding which happens during compilation. It is also called early binding because binding happens before a program actually runs.
+"Static (compile time) polymorphism is the polymorphism exhibited at compile time. Here, Java compiler knows which method is called. Method overloading and method overriding using static methods; method overriding using private or final methods are examples for static polymorphism."
+Static polymorphism with overloaded functions and templates that happens at compile time.
+"Static polymorphism (or compile-time polymorphism): Like most of the other OOP programming languages, Java polymorphism allows the incorporation of multiple methods within a class. The methods use the same name but the parameter varies. This represents the static polymorphism."
+Operator overloading is an example of static polymorphism. You can leverage operator overloading or to add functionality to operators so as to work with user defined types much the same way you work with fundamental data types.
+The static polymorphism is achieved using method overloading and operator overloading.
+"In Static Polymorphism, the call is settled by the compiler, whereas; In Run time Polymorphism, the call isn't settled by the compiler. Static polymorphism is accomplished by function overloading and operator overloading, whereas; Runtime polymorphism is accomplished by pointers and virtual functions."
+"C++ Overloading is static polymorphic, e.g. Here the compile, based on the number and type of arguments, can determine which function to call."
+"Static polymorphism is polymorphism that occurs at compile time, and dynamic polymorphism is polymorphism that occurs at runtime (during application execution).In early binding, the specific method to call is resolved at compile time."
+Polymorphism is one of the core concepts in OOP languages. It describes the concept that different classes can be used with the same interface. ... This is called static polymorphism because the compiler statically binds the method call to a specific method.
+"Method overloading is an example of Static Polymorphism. In overloading, the method / function has a same name but different signatures. It is also known as Compile Time Polymorphism because the decision of which method is to be called is made at compile time."
+"Static Polymorphism: is where the decision to resolve which method to accomplish, is determined during the compile time. Method Overloading could be an example of this."
+"Compile time polymorphism(Static Binding/Early Binding): In static polymorphism, if we call a method in our code then which definition of that method is to be called actually is resolved at compile time only. (or) At compile time, Java knows which method to invoke by checking the method signatures. So, this is called compile-time polymorphism or static binding."
+"Dynamic Polymorphism or Runtime polymorphism refers to the type of Polymorphism in OOPs, by which the actual implementation of the function is decided during the runtime or execution. The dynamic or runtime polymorphism can be achieved with the help of method overriding."
+"Dynamic Polymorphism(Late Binding/ Runtime Polymorphism): At run time, Java waits until runtime to determine which object is actually being pointed to by the reference. Method resolution was taken at runtime, due to that we call as run time polymorphism."
+"Dynamic polymorphism is runtime polymorphism. When we want an object to respond to the same method but have different behavior when that method is called that means we should override the method defined in the superclass (parent class) this is possible by defining a method in the subclass that has the same name, same arguments and same return type as a method in the super class. then when that is called the method defined in the subclass is invoked and executed instead of the one in the superclass. this is known as method overridingï¿½"
+Dynamic polymorphism is the concept that makes the code flexible and extensible. It is also called runtime polymorphism because the binding of the object to the function call happens at runtime when the object is instantiated. In dynamic polymorphism the reference type and object type are different. The reference variable is of the base class and any derived class that extends the declared reference class can be assigned to the reference variable.
+Dynamic Polymorphism implies the runtime resolution of function call. It is implies via Overriding which in turn is followed by inheritance in c++.
+"Runtime Polymorphism (or Dynamic polymorphism): It is also known as Dynamic Method Dispatch. Dynamic polymorphism is a process in which a call to an overridden method is resolved at runtime, thats why it is called runtime polymorphism."
+"Method overriding is one of the ways in which Java supports Runtime Polymorphism. Dynamic method dispatch is the mechanism by which a call to an overridden method is resolved at run time, rather than compile time."
+Runtime polymorphism or Dynamic Method Dispatch is a process in which a call to an overridden method is resolved at runtime rather than compile-time.
+"Dynamic polymorphism, which in C++ is called Overriding, allows us to determine the actual function method to be executed at run-time rather than compile time."
+"Dynamic polymorphism is a process or mechanism in which a call to an overridden method is to resolve at runtime rather than compile-time. It is also known as runtime polymorphism or dynamic method dispatch. ... In this process, an overridden method is called through a reference variable of a superclass."
+"Dynamic (run time) polymorphism is the polymorphism existed at run-time. Here, Java compiler does not understand which method is called at compilation time. Only JVM decides which method is called at run-time. Method overloading and method overriding using instance methods are the examples for dynamic polymorphism."
+Dynamic binding is a binding which happens during run time. It is also called late binding because binding happens when program actually is running.
+Dynamic polymorphism: Same method is overridden with same signature in different classes. Type of object on which method is being invoked is not known at compile time but will be decided at run time.
+Method overriding is an example of run time/dynamic polymorphism because method binding between method call and method definition happens at run time and it depends on the object of the class (object created at runtime and goes to the heap).
+Run time Polymorphism also known as method overriding. In this Mechanism by which a call to an overridden function is resolved at a Run-Time.
+Method Overriding is known as Dynamic Polymorphism or simple Polymorphism or Runtime Method Dispatch or Dynamic Binding because overridden method call get resolved at runtime.
+"Dynamic Polymorphism: is where the decision to choose which method to execute, is set during the run-time. Method Overriding could be an example of this."
+"Interface and abstract class both are special types of classes that contain only the methods declaration and not their implementation. But the interface is entirely different from an abstract class. The main difference between the two is that, when an interface is implemented, the subclass must define all its methods and provide its implementation. Whereas when an abstract class is inherited, the subclass does not need to provide the definition of its abstract method, until and unless the subclass is using it."
+"An abstract class allows you to create functionality that subclasses can implement or override. An interface only allows you to define functionality, not implement it. And whereas a class can extend only one abstract class, it can take advantage of multiple interfaces."
+An abstract class can contain static variables and methods. An interface contains only public static final variables.
+"An interface is better than a abstract class when you want multiple classes to implement that interface and when you don't have to inherit default behavior. In order to provide WebServices or do JMock tests you dont need the actual implementation, you just need an interface definition."
+"An ""interface"" embodies the concept of a contract between clients and an implementation. An ""abstract class"" contains code that you want to share between multiple implementations of an interface. While the interface is implied in an abstract classes methods, sometimes it is useful to specify the contract in isolation."
+"Abstract classes have no restrictions on field and method modifiers, while in an interface, all are public by default. We can have instance and static initialization blocks in an abstract class, whereas we can never have them in the interface. Abstract classes may also have constructors which will get executed during the child object's instantiation. Java 8 introduced functional interfaces, an interface with a restriction of no more than one declared abstract method. Any interface with a single abstract method other than static and default methods is considered a functional interface. We can use this feature to restrict the number of abstract methods to be declared. While in abstract classes, we can never have this restriction on the number of abstract methods declaration."
+"Members of a Java interface are public by default. A Java abstract class can have class members like private, protected, etc."
+An abstract class permits you to make functionality that subclasses can implement or override whereas an interface only permits you to state functionality but not to implement it. A class can extend only one abstract class while a class can implement multiple interfaces.
+"An interface can extend another Java interface only, an abstract class can extend another Java class and implement multiple Java interfaces."
+A Java interface can be implemented using the keyword ï¿½ï¿½ï¿½implementsï¿½ï¿½ï¿½ and an abstract class can be extended using the keyword ï¿
+Abstract class can provide the implementation of the interface. Interface canï¿½ï¿½ï¿½t provide the implementation of an abstract 
+"Abstract class can have final, non-final, static and non-static variables. The interface has only static and final variables."
+Variables declared in a Java interface are by default final. An abstract class may contain non-final variables.
+"Interface can have only abstract methods. An abstract class can have abstract and non-abstract methods. From Java 8, it can have default and static methods also."
+"An abstract class can declare instance variables, with all possible access modifiers, and they can be accessed in child classes. An interface can only have public, static, and final variables and can't have any instance variables."
+"The main difference between abstraction and inheritance is that abstraction allows hiding the internal details and displaying only the functionality to the users, while inheritance allows using properties and methods of an already existing class."
+"Abstract classes should be used primarily for objects that are closely related, whereas interfaces are best suited for providing a common functionality to unrelated classes. Interfaces are a good choice when we think that the API will not change for a while."
+An interface is a set of methods and attributes on that object. We can use an abstract base class to define and enforce an interface. An abstract class can have abstract methods as well as concrete methods.
+The main difference between an abstract class and an interface in Java 8 is the fact that an abstract class is a class and an interface is an interface. A class can have a state which can be modified by non-abstract methods but an interface cannot have the state because they can't have instance variables.
+"Garbage collection refers to this mechanism of handling the memory in the program. Through garbage collection, the unwanted memory is freed up by removing the objects that are no longer needed."
+"Garbage collection is the systematic recovery of pooled computer storage that is being used by a program when that program no longer needs the storage. Garbage collection is an automatic memory management feature in many modern programming languages, such as Java and languages in the . NET framework."
+"Garbage Collection is process of reclaiming the runtime unused memory automatically. In other words, it is a way to destroy the unused objects."
+Garbage collection is the systematic recovery of pooled computer storage that is being used by a program when that program no longer needs the storage. This frees the storage for use by other programs (or processes within a program). It also ensures that a program using increasing amounts of pooled storage does not reach its quota (in which case it may no longer be able to function).
+"Garbage collection is an automatic memory management feature in many modern programming languages, such as Java and languages in the .NET framework. Languages that use garbage collection are often interpreted or run within a virtual machine like the JVM. In each case, the environment that runs the code is also responsible for garbage collection. In older programming languages, such as C and C++, allocating and freeing memory is done manually by the programmer."
+"Java applications obtain objects in memory as needed. It is the task of garbage collection (GC) in the Java virtual machine (JVM) to automatically determine what memory is no longer being used by a Java application and to recycle this memory for other uses. Because memory is automatically reclaimed in the JVM, Java application developers are not burdened with having to explicitly free memory objects that are not being used. The GC operation is based on the premise that most objects used in the Java code are short-lived and can be reclaimed shortly after their creation. Because unreferenced objects are automatically removed from the heap memory, GC makes Java memory-efficient."
+"In computer science, garbage collection is a type of memory management. It automatically cleans up unused objects and pointers in memory, allowing the resources to be used again. Some programming languages have built-in garbage collection, while others require custom functions to manage unused memory."
+"When there are no references to an object, it is assumed to be no longer needed, and the memory, occupied by the object can be reclaimed. There is no explicit need to destroy an object as Java handles the de-allocation automatically. The technique that accomplishes this is known as Garbage Collection. Programs that do not de-allocate memory can eventually crash when there is no memory left in the system to allocate. These programs are said to have memory leaks."
+"Garbage collection in Java happens automatically during the lifetime of the program, eliminating the need to de-allocate memory and thereby avoiding memory leaks. In C language, it is the programmerï¿½ï¿½ï¿½s responsibility to de-allocate memory allocated dynamically using free() function. This is where Java memory management "
+"Garbage Collection in Java is a process by which the programs perform memory management automatically. The Garbage Collector(GC) finds the unused objects and deletes them to reclaim the memory. In Java, dynamic memory allocation of objects is achieved using the new operator that uses some memory and the memory remains allocated until there are references for the use of the object."
+Garbage collection is the process in which programs try to free up memory space that is no longer used by objects.
+"Garbage collection is the process of cleaning up unused resources - meaning objects that have gone out of scope, etc. It allows the programmer to not worry (for the most part) about cleaning up after himself."
+Garbage collection (GC) is a dynamic approach to automatic memory management and heap allocation that processes and identifies dead memory blocks and reallocates storage for reuse. The primary purpose of garbage collection is to reduce memory leaks.
+"The garbage collector provides the following benefits: Frees developers from having to manually release memory. Allocates objects on the managed heap efficiently. Reclaims objects that are no longer being used, clears their memory, and keeps the memory available for future allocations."
+"The garbage collector attempts to reclaim garbage, or memory used by objects that will never be accessed or mutated again by the application."
+"In Java, garbage collection is the process of managing memory, automatically. It finds the unused objects (that are no longer used by the program) and delete or remove them to free up the memory. The garbage collection mechanism uses several GC algorithms. The most popular algorithm that is used is Mark and Sweep."
+"Garbage collection relieves the programmer from performing manual memory management where the programmer specifies what objects to deallocate and return to the memory system and when to do so. Other similar techniques include stack allocation, region inference, memory ownership, and combinations of multiple techniques."
+Java applications obtain objects in memory as needed. It is the task of garbage collection (GC) in the Java virtual machine (JVM) to automatically determine what memory is no longer being used by a Java application and to recycle this memory for other uses.
+Garbage Collection (GC) is a mechanism that provides automatic memory reclamation for unused memory blocks.
+"Garbage Collection is process of reclaiming the runtime unused memory automatically. In other words, it is a way to destroy the unused objects. To do so, we were using free() function in C language and delete() in C++."
+"Garbage collection is a form of automatic memory management. The garbage collector attempts to reclaim garbage, or memory used by objects that will never be accessed or mutated again by the application."
+"In programming, separation of concerns is known as coupling. It means that an object cannot directly change or modify the state or behavior of other objects. It defines how closely two objects are connected together. There are two types of coupling, loose coupling, and tight coupling."
+"Objects that are independent of one another and do not directly modify the state of other objects is called loosely coupled. Loose coupling makes the code more flexible, changeable, and easier to work with."
+Objects that depend on other objects and can modify the states of other objects are called tightly coupled. It creates conditions where modifying the code of one object also requires changing the code of other objects. The reuse of code is difficult in tight coupling because we cannot separate the code
+Coupling refers to the degree of direct knowledge that one element has of another.
+"Coupling is the principle of ""separation of concerns"". This means that one object doesn't directly change or modify the state or behavior of another object. Coupling looks at the relationship between objects and how closely connected they are. "
+"Coupling in general (not limited to OOP) is a measure of how interdependent one module is on another. Software design should strive towards loosely coupled systems. Tightly coupled refers to having modules very interdependent on one another, which prevents these modules from being reused."
+"Coupling as explained by Craig Cruden is in my opinion, correct. What I can contribute here is point you in the right direction - a book that you can read to understand coupling, learn to identify different types of coupling in software, understand which type is worse than the other, and how you can reduce their effects."
+Loose coupling is achieved by means of a design that promotes single-responsibility and separation of concerns. A loosely-coupled class can be consumed and tested independently of other (concrete) classes.
+"Coupling in general (not limited to OOP) is a measure of how interdependent one module is on another. Software design should strive towards loosely coupled systems. Tightly coupled refers to having modules very interdependent on one another, which prevents these modules from being reused."
+"Loose coupling : In simple words, loose coupling means they are mostly independent. If the only knowledge that class A has about class B, is what class B has exposed through its interface, then class A and class B are said to be loosely coupled."
+"Tightly coupled refers to having modules very interdependent on one another, which prevents these modules from being reused. This in turn will make maintenance and changes to one module impact the other modules that are interdependent on them - forcing knock on changes."
+"Tightly coupled refers to having modules very interdependent on one another, which prevents these modules from being reused. This in turn will make maintenance and changes to one module impact the other modules that are interdependent on them - forcing knock on changes."
+"Coupling in Java. In object oriented design, Coupling refers to the degree of direct knowledge that one element has of another. In other words, how often do changes in class A force related changes in class B."
+"Coupling in Java. In object oriented design, Coupling refers to the degree of direct knowledge that one element has of another. In other words, how often do changes in class A force related changes in class B."
+"In object oriented design, Coupling refers to the degree of direct knowledge that one element has of another. In other words, how often do changes in class A force related changes in class B. There are two types of coupling: Tight coupling : In general, Tight coupling means the two classes often change together."
+"In object oriented design, Coupling refers to the degree of direct knowledge that one element has of another. In other words, how often do changes in class A force related changes in class B. There are two types of coupling: Tight coupling : In general, Tight coupling means the two classes often change together."
+"In object oriented design, Coupling refers to the degree of direct knowledge that one element has of another. In other words, how often do changes in class A force related changes in class B. There are two types of coupling: Tight coupling : In general, Tight coupling means the two classes often change together."
+"Coupling refers to the knowledge or information or dependency of another class. It arises when classes are aware of each other. If a class has the details information of another class, there is strong coupling. In Java, we use private, protected, and public modifiers to display the visibility level of a class, method, and field. You can use interfaces for the weaker coupling because there is no concrete implementation."
+"Coupling refers to the knowledge or information or dependency of another class. It arises when classes are aware of each other. If a class has the details information of another class, there is strong coupling. In Java, we use private, protected, and public modifiers to display the visibility level of a class, method, and field. You can use interfaces for the weaker coupling because there is no concrete implementation."
+"Objects that are independent from one another and do not directly modify the state of other objects are said to be loosely coupled. Loose coupling lets the code be more flexible, more changeable, and easier to work with. Objects that rely on other objects and can modify the states of other objects are said to be tightly coupled. Tight coupling creates situations where modifying the code of one object also requires changing the code of other objects (also known as a ripple effect). "
+"new: Hides the original method (which doesn't have to be virtual), providing different functionality. This should only be used where it is absolutely necessary."
+"Use of the new operator signifies a request for the memory allocation on the heap. If the sufficient memory is available, it initializes the memory and returns its address to the pointer variable."
+The new operator should only be used if the data object should remain in memory until delete is called.
+The new operator is an operator which denotes a request for memory allocation on the Heap.
+new: Allocates memory for the object on the free store (This is frequently the same thing as the heap)
+"Use of the new operator signifies a request for the memory allocation on the heap. If the sufficient memory is available, it initializes the memory and returns its address to the pointer variable."
+"The new operator should only be used if the data object should remain in memory until delete is called. Otherwise if the new operator is not used, the object is automatically destroyed when it goes out of scope. In other words, the objects using new are cleaned up manually while other objects are automatically cleaned when they go out of scope."
+"operator new can be called explicitly as a regular function, but in C++, new is an operator with a very specific behavior: An expression with the new operator, first calls function operator new (i.e., this function) with the size of its type specifier as first argument, and if this is successful, it then automatically initializes or constructs the object (if needed). Finally, the expression evaluates as a pointer to the appropriate type."
+"The Java new keyword is used to create an instance of the class. In other words, it instantiates a class by allocating memory for a new object and returning a reference to that memory. We can also use the new keyword to create the array object."
+"Using the 'new' keyword helps you create a new instance of an object and reuse the variable it has been assigned to, later in the class as required. Hope this helps. In java ï¿½ï¿½"" keyword is used to create an instance."
+"Instantiation: The new keyword is a Java operator that creates the object. Initialization: The new operator is followed by a call to a constructor, which initializes the new object."
+"New keyword in JavaScript is used to create an instance of an object that has a constructor function. On calling the constructor function with 'new' operator, the following actions are taken: A new empty object is created."
+"New keyword:  The example in the question will leak memory unless the pointer is deleted; and it should always be deleted, regardless of which control path is taken, or if exceptions are thrown."
+New keyword: Memory stays allocated until you delete it. (i.e. you could return an object that you created using new)
+"New keyword: Requires you to explicitly delete your object later. (If you don't delete it, you could create a memory leak)"
+New keyword: Allocates memory for the object on the free store (This is frequently the same thing as the heap)
+The new keyword hides the definition of the base class method and gives a new definition in the derived class.
+New keyword is used for method hiding.
+The new keyword is used to create an instance of a user-defined object type and a constructor function. It is used to constructs and returns an object of the constructor function.
+"The Java new keyword is used to create an instance of the class. In other words, it instantiates a class by allocating memory for a new object and returning a reference to that memory. We can also use the new keyword to create the array object."
+"In OOP, cohesion refers to the degree to which the elements inside a module belong together. It measures the strength of the relationship between the module and data. In short, cohesion represents the clarity of the responsibilities of a module. It is often contrasted with coupling."
+"Cohesion is an indication of relative functional strength of module. A cohesive module performs a single task, requiring little interaction with other components in other parts of program. A module having high cohesion and low coupling is said to be functionally independent of other module. Classification of Cohesion 1.Coincidental 2.Logical 3.Temporal 4.Procedural 5.Communication 6.Sequential 7.Functional"
+"Within a single program, output of a function is passed to another function. This is called interaction of elements within a module. This is also called as Cohesion."
+"The term cohesion is indeed a little counter intuitive for what it means in software design. Cohesion common meaning is that something that sticks together well, is united, which are characterized by strong bond like molecular attraction. However in software design, it means striving for a class that ideally does only one thing, so multiple sub-modules are not even involved. Perhaps we can think of it this way. A part has the most cohesion when it is the only part (does only one thing and can't be broken down further). This is what is desired in software design. Cohesion simply is another name for ""single responsibility"" or ""separation of concerns""."
+"Cohesion is an indication of the relative functional strength of a module.A cohesive module performs a single task, requiring little interaction with other components in other parts of a program. Stated simply, a cohesive module should (ideally) do just one thing."
+"Cohesion represents the degree to which a part of a code base forms a logically single, atomic unit."
+"Cohesion is an ordinal type of measurement and is usually described as ï¿½ï¿½ï¿½high cohesionï¿½ï¿½ï¿½ or ï¿½ï¿½ï¿½low cohesionï¿½ï¿½ï¿½. Modules with high cohesion tend to be preferable, because high cohesion is associated with several desirable traits of software including robustness, reliability, reusability, and understandability. In contrast, low cohesion is associated with undesirable traits such as being difficult to maintain, test, re"
+"Cohesion (Co-hesion) : Co which means together, hesion which means to stick. The System of sticking together of particles of different substances."
+"cohesion refers all about how a single class is designed. Cohesion is the Object Oriented principle most closely associated with making sure that a class is designed with a single, well-focused purpose. The more focused a class is, the cohesiveness of that class is more. The advantages of high cohesion is that such classes are much easier to maintain (and less frequently changed) than classes with low cohesion. Another benefit of high cohesion is that classes with a well-focused purpose tend to be more reusable than other classes."
+"Cohesion in software engineering is the degree to which the elements of a certain module belong together. Thus, it is a measure of how strongly related each piece of functionality expressed by the source code of a software module is."
+Cohesion is an indication of how related and focused the responsibilities of an software element are.
+"Cohesion refers to what the class (or module) can do. Low cohesion would mean that the class does a great variety of actions - it is broad, unfocused on what it should do. High cohesion means that the class is focused on what it should be doing, i.e. only methods relating to the intention of the class."
+"High cohesion gives us better-maintaining facility and Low cohesion results in monolithic classes that are difficult to maintain, understand and reduce re-usability"
+High cohesion is when you have a class that does a well-defined job. Low cohesion is when a class does a lot of jobs that donï¿½ï¿½ï¿½t have much in c
+The advantage of high cohesion is that such classes are much easier to maintain (and less frequently changed) than classes with low cohesion. Another benefit of high cohesion is that classes with a well-focused purpose tend to be more reusable than other classes.
+"Cohesion in Java is the Object-Oriented principle most closely associated with making sure that a class is designed with a single, well-focused purpose. In object-oriented design, cohesion refers all to how a single class is designed. "
+"Modules with high cohesion tend to be preferable, simple because high cohesion is associated with several desirable traits of software including robustness, reliability, and understandability. Low cohesion is associated with undesirable traits such as being difficult to maintain, test, reuse, or even understand. Cohesion is often contrasted with coupling. High cohesion often correlates with loose coupling, and vice versa."
+"So, cohesion focuses on how single module/class is designed. Higher the cohensiveness of the module/class, better is the OO design. If our module performs one task and nothing else or has a clear purpose, our module has high cohesion. On the other hand, if our module tries to encapsulate more than one purpose or has an unclear purpose, our module has low cohesion."
+"In computer programming, cohesion refers to the degree to which the elements inside a module belong together. In one sense, it is a measure of the strength of relationship between the methods and data of a class and some unifying purpose or concept served by that class. In another sense, it is a measure of the strength of relationship between the class's method and data themselves."
+Cohesion represents the clarity of the responsibilities of a module.
+"Code that is organized by functionality and does only one task is said to have high cohesion. Highly cohesive code is reusable, simple, and easy to understand. It also creates objects that are small and focused. Code that is organized arbitrarily and has multiple tasks is said to have low cohesion. Such code is difficult to understand, maintain, and reuse, and is often complex. It also creates objects that are large and unfocused."
+"Cohesion is the principle of being or doing one thing well. In other words, cohesion means grouping together code that contributes to a single task."
+"There are three levels of data abstraction: Physical Level: It is the lowest level of data abstraction. It shows how the data is actually stored in memory. Logical Level: It includes the information that is actually stored in the database in the form of tables. It also stores the relationship among the data entities in relatively simple structures. At this level, the information available to the user at the view level is unknown. View Level: It is the highest level of data abstraction. The actual database is visible to the user. It exists to ease the availability of the database by an individual user."
+Three main levels of data abstraction are as follows: Physical level: the physical level is the lowest level of data abstraction. It describes how data are stored in the database system. We can get the complex data structure at his stage. Logical level: It is the middle level of the three-level data application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Three main levels of data abstraction are as follows: Physical level: the physical level is the lowest level of data abstraction. It describes how data are stored in the database system. We can get the complex data structure at his stage. Logical level: It is the middle level of the three-level data application. It describes how data are stored in the system. View level: the highest level of data abstraction. This level describes the user interaction with the system.
+"Instance Variable: It is an object-level variable. It should be declared inside a class but must be outside a method, block, and constructor. It is created when an object is created by using the new keyword. It can be accessed directly by calling the variable name inside the class."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Static Variable: It is a class-level variable. It is declared with keyword static inside a class but must be outside of the method, block, and constructor. It stores in static memory. Its visibility is the same as the instance variable. The default value of a static variable is the same as the instance variable. It can be accessed by calling the class_name.variable_name."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Local Variable: It is a method-level variable. It can be declared in method, constructor, or block. Note that the use of an access modifier is not allowed with local variables. It is visible only to the method, block, and constructor in which it is declared. Internally, it is implemented at the stack level. It must be declared and initialized before use."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reference Variable: It is a variable that points to an object of the class. It points to the location of the object that is stored in the memory.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Yes, the constructors can be overloaded by changing the number of arguments accepted by the constructor or by changing the data type of the parameters."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"The base class is the root class- the most generalized class. At the same time, the superclass is the immediate parent class from which the other class inherits."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hybrid inheritance is a combination of multiple and multi-level inheritance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Hierarchical inheritance refers to inheritance where one base class has more than one subclasses. For example, the vehicle class can have ï¿½ï¿½ï¿½carï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½bikeï¿½ï¿½ï¿½"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Operator overloading refers to implementing operators using user-defined types based on the arguments passed along with it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pure virtual functions or abstract functions are functions that are only declared in the base class. This means that they do not contain any definition in the base class and need to be redefined in the subclass.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A try/ catch block is used to handle exceptions. The try block defines a set of statements that may lead to an error. The catch block basically catches the exception.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Finalize as an object method used to free up unmanaged resources and cleanup before Garbage Collection(GC). It performs memory management tasks.
+"Finalize() is the method of Object class. This method is called just before an object is garbage collected. finalize() method overrides to dispose system resources, perform clean-up activities and minimize memory leaks."
+"Finalize() is the method of Object class. This method is called just before an object is garbage collected. finalize() method overrides to dispose system resources, perform clean-up activities and minimize memory leaks."
+"The finalize() method of Object class is a method that the Garbage Collector always calls just before the deletion/destroying the object which is eligible for Garbage Collection, so as to perform clean-up activity. Clean-up activity means closing the resources associated with that object like Database Connection, Network Connection or we can say resource de-allocation. Remember it is not a reserved keyword. Once the finalize method completes immediately Garbage Collector destroy that object."
+"finalize method: It is a method that the Garbage Collector always calls just before the deletion/destroying the object which is eligible for Garbage Collection, so as to perform clean-up activity. Clean-up activity means closing the resources associated with that object like Database Connection, Network Connection or we can say resource de-allocation. Remember it is not a reserved keyword. "
+finalize is the method in Java which is used to perform clean up processing just before object is garbage collected.
+finalize() method is used with the objects.
+finalize method performs the cleaning activities with respect to the object before its destruction.
+finalize method is executed just before the object is destroyed.
+Finalize() is a special method in Object class that we can override in our classes. Finalize() is called by the Garbage collector to collect the garbage value when the object is getting it. This method is generally overridden to release the system resources when garbage value is collected from the object.
+"Since it is available for every java class hence Garbage Collector can call finalize method on any java object Now, the finalize method which is present in the Object class, has an empty implementation, in our class clean-up activities are there, then we have to override this method to define our own clean-up activities."
+"This finalizes () method is called before an object is garbage collected, so it means we canï¿½ï¿½ï¿½t call finalize() method manually just like other Java methods. finalize() method called only once by garbage collector(GC) thread. Code: protected void finalize throws Throwable { //write some code } The finalize() method has an empty implementation, and in our class, clean-up activities are present, then we have to override this finalize() method to define our cleanup activ"
