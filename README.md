@@ -14,6 +14,14 @@ ___________________________________
 
 Uses BERT and Cosine Similairty to find the semantic similarity between two sentences
 
+### GloVe
+___________________________________
+
+Uses GloVe embeddings and Manhattan LSTM to determine semantic similarity between the answer key and student answers.
+#### Files Required
+- [train_main.csv](https://drive.google.com/file/d/1Mh3sUDOSNa6g6tqhZD1eoqCZlBXkLErw/view?usp=sharing)
+- [GloVe Embeddings](https://drive.google.com/file/d/1epXvS0xWlTy9tmcW1LM2HtngogwcuFTf/view?usp=sharing)
+
 ### Hewlett Dataset
 _________________________
 Uses GloVe, Poincaré and Word2Vec embeddings along with Manhattan LSTM to find semantic similairty between short answers from the Hewlett Dataset
@@ -46,11 +54,24 @@ Uses Poincaré embeddings and Manhattan LSTM to find semantic similairty between
 #### Notes
 - The Poincaré embeddings are automatically generated from the dataset in the notebook
 
+### Semantic Similarity Functions
+_______________________________
+Uses tf-idf vectors, Pairwise similarity, word2vec embeddings, Doc2vec model and BERT to find semantic similairty between ta list of documents.
+#### Files Required
+- [Word2Vec Embeddings](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing)
+
 ### Descriptive Answer Evaluator
 _________________________________________________
 Uses RAKE keyword Extractor, Keyphrase extracter using TF-IDF and BERT + Cosine similairty to evaluate student answers.
 #### Files Required
 - [Define OOPs.csv](https://drive.google.com/file/d/1s_A9356nA3Ns11MV1eP8SjnbMb6jo4LT/view?usp=sharing)
+- [Word2Vec Embeddings](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing)
+
+### Word2Vec
+_______________________________
+Uses Word2Vec embeddings and Manhattan LSTM to determine semantic similarity between the answer key and student answers.
+#### Files Required
+- [train_main.csv](https://drive.google.com/file/d/1Mh3sUDOSNa6g6tqhZD1eoqCZlBXkLErw/view?usp=sharing)
 - [Word2Vec Embeddings](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing)
 
 ### fastText
