@@ -46,7 +46,7 @@ Uses Poincaré embeddings and Manhattan LSTM to find semantic similairty between
 #### Notes
 - The Poincaré embeddings are automatically generated from the dataset in the notebook
 
-### Subjective Answer Evaluator
+### Descriptive Answer Evaluator
 _________________________________________________
 Uses RAKE keyword Extractor, Keyphrase extracter using TF-IDF and BERT + Cosine similairty to evaluate student answers.
 #### Files Required
@@ -59,7 +59,7 @@ Uses fastText embeddings and Manhattan LSTM to determine semantic similarity bet
 #### Dataset used
 - [train_main.csv](https://drive.google.com/file/d/1Mh3sUDOSNa6g6tqhZD1eoqCZlBXkLErw/view?usp=sharing)
 #### Notes
-- The fastText embeddings are automatically generated from the dataset in the notebook
+- The fastText embeddings are downloaded from GitHub in the notebook
 
 ### Node2Vec
 ____________________________
